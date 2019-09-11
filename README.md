@@ -7,16 +7,16 @@ https://raw.githubusercontent.com/MurrayPHN/static-geo/master/POA/0812.json
 
 Options are:
 
-CED
-IARE
-ILOC
-IREG
-LGA
-PHN
-POA
-SA1
-SA2
-SA3
-SA4
-SSC
-STE
+- CED
+- IARE
+- ILOC
+- IREG
+- LGA
+- PHN
+- POA
+- SA1
+- SA2
+- SA3
+- SA4
+- SSC
+- STE
