@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":null,"properties":{"SSC_CODE16":"49797","SSC_NAME16":"Migratory - Offshore - Shipping (SA)","STE_CODE16":"4","STE_NAME16":"South Australia","AREASQKM16":0}}]}
+{"type":"FeatureCollection","features":{"type":"Feature","geometry":null,"properties":{"SSC_CODE16":"49797","SSC_NAME16":"Migratory - Offshore - Shipping (SA)","STE_CODE16":"4","STE_NAME16":"South Australia","AREASQKM16":0}}}
